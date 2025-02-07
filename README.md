@@ -13,7 +13,7 @@ Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/henriqueferreira-ofc/dama/blob/main/LICENSE">
+  <img alt="License" src="[https://github.com/henriqueferreira-ofc/dama/blob/main/LICENSE](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)">
 </p>
 
 <br>
