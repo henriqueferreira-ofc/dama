@@ -18,7 +18,7 @@ Meu Projeto desenvolvido em um curso promovido pela Rocketseat na WEB. <br/>
 
 <br>
 
-![ProjetoDev](https://github.com/henriquearaujooficial/ProjetoDev/blob/main/assets/.github/Telaprincipal.png)
+![ProjetoDama](https://github.com/henriqueferreira-ofc/dama/blob/main/Jogo%20de%20Dama.jpg)
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
